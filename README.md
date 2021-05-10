@@ -45,7 +45,7 @@
 -->
 
 <!-- 🖼️ Add logo / primary image -->
-<img src="https://avatars.githubusercontent.com/u/60469024?s=120" align="right" width=120>
+![feature-sliced-logo](https://avatars.githubusercontent.com/u/60469024?s=120)
 
 <!-- ⚡ Add primary information & features about your repository -->
 Методология для проектирования *frontend проектов*, нацеленная [**на разделение приложения согласно бизнес-логике и областям ответственности.**][refs-splitting]
@@ -179,7 +179,6 @@
   - [How to Organize Your React + Redux Codebase](https://www.pluralsight.com/guides/how-to-organize-your-react-+-redux-codebase)
   - [The Humanizing Work Guide to Splitting User Stories *(aka "Vetical Slices")*](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
 
-<br/>
 
 - `Discussions` [Дискуссии по методологии][ext-discussions]
   > **Здесь обсуждаются и разбираются рельные примеры применения, вопросы, проблемы, идеи методологии**
