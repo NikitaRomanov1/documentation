@@ -22,7 +22,7 @@ slug: intro
 
 ![feature-sliced-banner](/img/banner.jpg)
 
-[Знакомство с методологией][refs-getstarted] | [Фундаментальные концепции][refs-concepts] | [Практические гайды по применению][refs-guides] | [Справочный материал][refs-reference] | [О методолологии][refs-about]
+[Знакомство с методологией][refs-getstarted] | [Фундаментальные концепции][refs-concepts] | [Практические гайды по применению][refs-guides] | [Справочный материал][refs-reference] | [О методологии][refs-about]
 |---|---|---|---|---|
 
 [refs-getstarted]: /docs/get-started/overview
